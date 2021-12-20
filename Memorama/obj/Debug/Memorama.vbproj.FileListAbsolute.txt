@@ -1,0 +1,39 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\bin\Debug\Memorama.exe.config
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\bin\Debug\Memorama.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\bin\Debug\Memorama.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\bin\Debug\Memorama.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\obj\Debug\Memorama.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\obj\Debug\Memorama.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\obj\Debug\Memorama.vbproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\obj\Debug\Memorama.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\obj\Debug\Memorama.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Memorama\obj\Debug\Memorama.pdb
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\bin\Debug\Memorama.exe.config
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\obj\Debug\Memorama.exe
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\obj\Debug\Memorama.xml
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\obj\Debug\Memorama.pdb
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\bin\Debug\Memorama.exe
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\bin\Debug\Memorama.pdb
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\bin\Debug\Memorama.xml
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\obj\Debug\Memorama.Form1.resources
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\obj\Debug\Memorama.Resources.resources
+C:\Users\Usuario\Desktop\POO VisualStudio\1er Parcial\Trabajos\Memorama\Memorama\obj\Debug\Memorama.vbproj.GenerateResource.Cache
+C:\Users\jorge\Documents\Memorama\Memorama\bin\Debug\Memorama.exe.config
+C:\Users\jorge\Documents\Memorama\Memorama\obj\Debug\Memorama.exe
+C:\Users\jorge\Documents\Memorama\Memorama\obj\Debug\Memorama.xml
+C:\Users\jorge\Documents\Memorama\Memorama\obj\Debug\Memorama.pdb
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\bin\Debug\Memorama.exe.config
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\obj\Debug\Memorama.exe
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\obj\Debug\Memorama.xml
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\obj\Debug\Memorama.pdb
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\bin\Debug\Memorama.exe
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\bin\Debug\Memorama.pdb
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\bin\Debug\Memorama.xml
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\obj\Debug\Memorama.vbprojResolveAssemblyReference.cache
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\obj\Debug\Memorama.Memo.resources
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\obj\Debug\Memorama.Resources.resources
+D:\Jorge\Documents\UPP\Programacion Visual\Visual Studio\Memorama\Memorama\obj\Debug\Memorama.vbproj.GenerateResource.Cache
+D:\Jorge\Descargas\Proyectos GitHub\Memorama\Memorama\bin\Debug\Memorama.exe.config
+D:\Jorge\Descargas\Proyectos GitHub\Memorama\Memorama\obj\Debug\Memorama.exe
+D:\Jorge\Descargas\Proyectos GitHub\Memorama\Memorama\obj\Debug\Memorama.xml
+D:\Jorge\Descargas\Proyectos GitHub\Memorama\Memorama\obj\Debug\Memorama.pdb
